@@ -4,6 +4,8 @@ import unittest
 import os
 from funcoes import calcular_preco, validar_qtd_bilhetes
 
+# Adicionando comentário teste
+
 # TESTES CONSIDERANDO O CONTEÚDO DE SALA DE AULA - Bateria de testes 1
 # INTERVALO (DADO DE ENTRADA - IDADE VÁLIDA)
 # QUALQUER VALOR DE 0 - 130 (VÁLIDA) // ACIMA OU ABAIXO DISSO (INVÁLIDAS)
